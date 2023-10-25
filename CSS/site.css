@@ -70,9 +70,9 @@ footer .bi:hover {
 }
 
 .even {
-    font-weight: bold;
+    content: "Fizz";
 }
 
 .odd {
-    color: red !important;
+    content: "Buzz";
 }
